@@ -27,7 +27,6 @@ This repository contains the implementation of an Image Caption Generator, lever
 - NLTK
 
 ## References
-## References
 
 [1] Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan. "Show and Tell: A Neural Image Caption Generator." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015. [Link to Paper](https://arxiv.org/abs/1411.4555)
 
