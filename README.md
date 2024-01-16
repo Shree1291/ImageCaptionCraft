@@ -1,4 +1,25 @@
 # ImageCaptionCraft
+# Image Caption Generator
+
+![image](https://github.com/Shree1291/ImageCaptionCraft/assets/97882995/e88a841d-e5bd-4a65-baaf-039733aa5083)
+
+## Caption Examples
+
+### Actual Caption
+- **Caption 1:**
+  - *startseq baby girl in an orange dress gets wet as she stands next to water sprinkler endseq*
+- **Caption 2:**
+  - *startseq blonde toddler wearing an orange dress is wet and standing beside sprinkler in yard endseq*
+- **Caption 3:**
+  - *startseq child in dress is looking at sprinkler endseq*
+- **Caption 4:**
+  - *startseq little girl in an orange dress is running through the sprinkler in the yard endseq*
+- **Caption 5:**
+  - *startseq "on wet grass little blond girl in orange dress plays in sprinkler." endseq*
+
+### Predicted Caption
+- **Generated Caption:**
+  - *startseq two girls in orange clothes are playing with sprinkler endseq*
 
 ## Overview
 This repository contains the implementation of an Image Caption Generator, leveraging a combination of Convolutional Neural Networks (CNNs) for image feature extraction and Long Short-Term Memory (LSTM) networks for generating descriptive captions.
