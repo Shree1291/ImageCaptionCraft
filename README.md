@@ -30,4 +30,4 @@ This repository contains the implementation of an Image Caption Generator, lever
 - VGG16: [Simonyan, Karen, and Andrew Zisserman. "Very deep convolutional networks for large-scale image recognition." arXiv preprint arXiv:1409.1556 (2014).](https://arxiv.org/abs/1409.1556)
 
 ## Acknowledgments
-This project is part of a design project for [Your Course/Institution]. Feel free to explore, contribute, and adapt the code for your own image captioning projects!
+This project is part of a design project of Vth Semester for IIIT Vadodara - International Campus Diu. Feel free to explore, contribute, and adapt the code for your own image captioning projects!
