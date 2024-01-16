@@ -1,5 +1,7 @@
 # ImageCaptionCraft
-# Image Caption Generator
+
+## Overview
+This repository contains the implementation of an Image Caption Generator, leveraging a combination of Convolutional Neural Networks (CNNs) for image feature extraction and Long Short-Term Memory (LSTM) networks for generating descriptive captions.
 
 ![image](https://github.com/Shree1291/ImageCaptionCraft/assets/97882995/e88a841d-e5bd-4a65-baaf-039733aa5083)
 
@@ -21,8 +23,6 @@
 - **Generated Caption:**
   - *startseq two girls in orange clothes are playing with sprinkler endseq*
 
-## Overview
-This repository contains the implementation of an Image Caption Generator, leveraging a combination of Convolutional Neural Networks (CNNs) for image feature extraction and Long Short-Term Memory (LSTM) networks for generating descriptive captions.
 
 ## Features
 - **Data Loading and Preprocessing:** Utilizes the Flickr8k dataset, encompassing image data and corresponding captions.
